@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geisa Alvim</title>
+    <link rel="stylesheet" href="steele_portifolio.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="portifólio.html"> Sobre Mim </a>
+            </li>
+            <li>
+                <a href="contatos.html"> Contato </a>
+            </li>
+        </ul>
+    </nav>
+
+    <header>
+        <div class="center">
+            <img src="./img/Foto_perfil.jpeg"> </img>
+        </div>
+
+        <h1>Geisa Alvim</h1>
+        <h2>Desenvolvedora de Software / QA</h2>
+    </header>
+  
+    <main class="container">
+        <section>
+            <h3>Sobre Mim:</h3>
+            <p>
+                Formada inicialmente em Biologia, reolveu mudar de área e se aventurar em novos caminhos. <br>
+                Depois de mais de 10 anos como professora de Ciências, me vi apaixonada por outra área, outra Ciência,
+                a da tecnologia. <br>
+                Me vejo então focada, determinada e deddicada em mais um aprendizado nas áreas da tecnologia, dos códigos,
+                do futuro.
+            </p>
+        </section>
+
+        <section>
+            <h3>Formação:</h3>
+            <p class="cascata">
+                - Licenciatura plena em Biologia; <br>
+                    - UCSal <br><br>
+                - Pós-Graduação em Psicopedagogia; <br>
+                    - Ucsal. <br><br>
+                - Graduação em Análise e Desenvolvimento dde Sistemas; <br>
+                    - Unijorge <br>
+                    - Em andamento. <br><br>
+                - Curso técnico em Desenvolvmento de Software; <br>
+                    - Senai- Cimatec, <br>
+                    - Em andamento. <br> <br>
+            </p>
+        </section>
+
+        <section>
+            <h3>Cursos:</h3>
+            <p>
+                - Java; <br>
+                    - udemi; <br>
+                    - Em andamento. <br><br>
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <a href="https://github.com/GeisAlvim" target="_blank" rel="noopener noreferrer"> 
+            <img src="./img/Github.png"></img>
+            <p>Github</p>
+        </a>
+        <a href="https://www.linkedin.com/in/geisa-alvim-67a696131/" target="_blank" rel="noopener noreferrer"> 
+            <img src="./img/Linkedin.png"></img>
+            <p>Linkedin</p>
+        </a>
+    </footer>
+</body>
+</html>
